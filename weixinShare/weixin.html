@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!--IOS中Safari允许全屏浏览：-->
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <!--IOS中Safari顶端状态条样式：-->
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <!-- 启用360浏览器的极速模式(webkit) -->
+    <meta name="renderer" content="webkit">
+    <!---->
+    <meta name="format-detection" content="telephone = no">
+    <meta name="description" content="">
+    <meta name="author" content="smartlib-gedandan">
+    <meta name="keywords" content="">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>demo</title>
+
+
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+    <script id="share" src="weixin.php?url=url">
+
+    </script>
+</head>
+<body>
+<!---->
+<div class="cover">
+    <div class="alert br4">
+        <div class="alert-span">正在维护，敬请期待……</div>
+    </div>
+</div>
+
+<div class="foot">
+    <div class="container ">
+        <span class="copy">demo</span>
+    </div>
+</div>
+<!---->
+<!---->
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("#share").load('weixin.php');
+    });
+</script>
+
+
+
+
+
+

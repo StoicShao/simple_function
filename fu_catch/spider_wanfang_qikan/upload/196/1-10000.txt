@@ -1,0 +1,1075 @@
+title-题名:配网开关柜全生命周期成本模型及敏感度分析
+entitle-外文题名:Life cycle cost model and sensitivity analysis of switchgear
+author-作者:苏东@@@马仲能@@@李成翔@@@谢家正@@@夏成军@@@
+enauthor-作者英文:SU Dong@@@MA Zhongneng@@@LI Chengxiang@@@XIE Jiazheng@@@XIA Chengjun@@@
+jg-机构:广州供电局有限公司,广东 广州,510620@@@华南理工大学电力学院,广东 广州,510640@@@
+kan_name-刊名:电力系统保护与控制
+enkan_name-刊名英文:Power System Protection and Control
+doi-doi:10.7667/PSPC162045
+year-年份:2018
+qi-期:1
+abstract-摘要:基于全生命周期成本理论,建立考虑资金时间价值的配网开关柜全生命周期采购成本、运行成本、故障成本和报废成本的计算模型和敏感度分析的计算方法.对配网开关柜全生命周期各阶段成本进行分析,确定配网开关柜质量和采购成本的平衡点.结合实际算例,对配网开关柜全生命周期成本的各阶段成本和敏感度进行分析.找出了影响配网开关柜全生命周期成本的关键成本因素,提出了减少配网开关柜全生命周期成本的方法.
+enabstract-摘要英文:
+fund-基金:国家重点研发计划"智能电网技术与装备"重点专项(2016YFB0901300)@@@南方电网公司科技项目(GZM2015-1-0002) This work is supported by National Key Research & Development Program of China "Techniques and Equipment of Smart Grid"(2016YFB0901300)
+keywords-关键词:配网开关柜@@@全生命周期成本模型@@@敏感度分析@@@关键成本因素@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-23 00:00:00
+page_code-页码:150-155
+page_num-页数:6
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:老年COPD患者症状负担、自我效能及生活质量的相关性研究
+entitle-外文题名:Correlation study on symptom burden, self-efficacy and quality of life in elderly COPD patients
+author-作者:范槐芳@@@李海燕@@@董飞飞@@@
+enauthor-作者英文:Fan Huaifang@@@Li Haiyan@@@Dong Feifei@@@
+jg-机构:浙江省中西医结合医院呼吸科, 杭州,310006
+kan_name-刊名:中华现代护理杂志
+enkan_name-刊名英文:Chinese Journal of Modern Nursing
+doi-doi:10.3760/cma.j.issn.1674-2907.2018.02.012
+year-年份:2018
+qi-期:2
+abstract-摘要:目的 调查老年COPD患者的症状负担、自我效能以及生活质量现状,并探讨三者之间的相关性.方法 采用便利抽样的方法,选取2016年2月—2017年3月在浙江省中西医结合医院住院的老年COPD患者370例,使用一般资料调查表、COPD症状评估测试问卷、COPD自我效能量表以及COPD生活质量测定量表进行调查.结果 老年COPD患者症状负担总得分为(28.27±9.52)分,自我效能总得分为(98.66±10.78)分,生活质量总得分为(148.37±21.33)分;不同年龄、性别、文化程度、居住方式、是否吸烟以及疾病严重程度的患者症状负担、自我效能、生活质量各量表得分的差异均有统计学意义(P0.05),自我效能得分和生活质量得分差异均具有统计学意义(t值分别为2.036、2.184;P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:生活质量@@@肺疾病,慢性阻塞性@@@症状负担@@@自我效能@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-08 00:00:00
+page_code-页码:175-180
+page_num-页数:6
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:基于等效结构应力法的ST12点焊疲劳寿命分析
+entitle-外文题名:Fatigue Life Analysis of ST12 Spot Welding Based on Equivalent Structural Stress
+author-作者:侯晓丹@@@王瑞杰@@@
+enauthor-作者英文:HOU Xiao-dan@@@WANG Rui-jie@@@
+jg-机构:昆明理工大学机电工程学院,昆明,650500
+kan_name-刊名:价值工程
+enkan_name-刊名英文:Value Engineering
+doi-doi:
+year-年份:2018
+qi-期:2
+abstract-摘要:对ST12低碳钢拉剪点焊试件进行不同载荷工况下恒幅疲劳加载试验.使用基于美国ASME标准下的结构应力法对ST12点焊模型验证网格不敏感特性.利用最小二乘法将不同载荷条件下计算的结构应力与相应试验疲劳寿命拟合出预测方程,利用预测方程估算出的预测寿命与主S-N曲线法的预测寿命对比分析.研究表明:对于ST12低碳钢拉剪点焊试件,在低载高周疲劳工况下,主S-N曲线法的预测寿命偏危险,基于结构应力法的预测方程较为适用.
+enabstract-摘要英文:
+fund-基金:国家自然科学基金资助项目(51065012)
+keywords-关键词:ST12低碳钢@@@等效结构应力法@@@疲劳寿命预测@@@
+en_keywords-关键词英文:
+class_code-分类号:TG407
+published_time-出版时间:2018-01-05 00:00:00
+page_code-页码:126-129
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:某市空巢老人生命质量及其影响因素研究
+entitle-外文题名:Investigation on quality of life and influencing factors of Baise empty nesters
+author-作者:李琼莲@@@梁细静@@@韦良家@@@邓树嵩@@@
+enauthor-作者英文:Qiong-lian Li@@@Xi-jing Liang@@@Liang-jia Wei@@@Shu-song Deng@@@
+jg-机构:右江民族医学院,广西 百色,533000
+kan_name-刊名:中国现代医学杂志
+enkan_name-刊名英文:China Journal of Modern Medicine
+doi-doi:10.3969/j.issn.1005-8982.2018.01.011
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨百色市空巢老人生命质量现状及其影响因素,为提高空巢老人生命质量提供参考依据.方法 采用自行设计的调查表、SF-36生命质量量表对百色市60岁及以上的316例空巢老人和258例非空巢老人进行问卷调查.结果 百色市空巢老人与非空巢老人文化程度比较差异有统计学意义(P0.05);在心理健康得分上空巢老人低于非空巢老人,差异有统计学意义(P0.05);文化程度、居住方式、主观经济自评、孤独程度、是否患慢性病是影响空巢老人生命质量的主要因素.结论 空巢老人的生命质量水平低于非空巢老人,加强健康宣教、改善经济条件及居住环境、减轻孤独感、降低慢性病患病率有利于提高空巢老人的生命质量.
+enabstract-摘要英文:
+fund-基金:国家自然科学基金(81360433)@@@2015年自治区级大学生创新创业训练计划项目(201510599086)
+keywords-关键词:空巢老人@@@非空巢老人@@@生命质量@@@影响因素@@@
+en_keywords-关键词英文:
+class_code-分类号:R195
+published_time-出版时间:2018-01-10 00:00:00
+page_code-页码:56-60
+page_num-页数:5
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:影响维持性透析慢性肾功能衰竭患者生活质量的相关因素分析
+entitle-外文题名:Related factors influencing the quality of life of patients with chronic renal failure undergoing maintenance dialysis
+author-作者:李琴@@@亢丽@@@
+enauthor-作者英文:LI Qin@@@KANG Li@@@
+jg-机构:成都医学院第一附属医院肾病科,四川 成都,610500
+kan_name-刊名:实用医院临床杂志
+enkan_name-刊名英文:Practical Journal of Clinical Medicine
+doi-doi:
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨维持性透析慢性肾功能衰竭患者生活质量的相关因素.方法 选取我院2014年2月至2016年2月136例维持性透析患者(透析组),选取同期在我院体检的健康人群150例(对照组),采用肾脏疾病生活质量简表(KDQOL-SFTM1.3)量表评估患者生活质量.收集患者年龄、性别、经济状况、文化程度、婚姻状况、透析时间、透析频率、原发病等临床资料,检测并计算患者血红蛋白、白蛋白、尿素清除指数(Kt/V)等实验室指标.结果 透析组一般健康相关生存质量(SF-36)总分显著低于对照组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:慢性肾功能衰竭@@@血液透析@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R692.5@@@R459.5@@@
+published_time-出版时间:2018-01-25 00:00:00
+page_code-页码:31-35
+page_num-页数:5
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:儿童游乐设施中互动性元素的体现
+entitle-外文题名:Reflection of Interactive Elements in Children's Play Facilities
+author-作者:杨华@@@程云杉@@@
+enauthor-作者英文:YANG Hua@@@CHENG Yun-shan@@@
+jg-机构:南京林业大学,南京,210037
+kan_name-刊名:价值工程
+enkan_name-刊名英文:Value Engineering
+doi-doi:
+year-年份:2018
+qi-期:2
+abstract-摘要:儿童游乐设施中元素的互动,是人、景、物的互动,体现了生活美、自然美和艺术美的融糅.因此本文基于儿童游乐设施,探究儿童游乐设施中各元素互动的过程.通过这个过程,我们可以分析得出儿童柔性设施在儿童成长中扮演了重要的角色.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:互动@@@变化@@@教育@@@生活@@@自然@@@艺术@@@
+en_keywords-关键词英文:
+class_code-分类号:D669.3
+published_time-出版时间:2018-01-05 00:00:00
+page_code-页码:153-154
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:多学科合作延续护理对乳腺癌患者心理状态和生活质量的影响
+entitle-外文题名:Effects of multidisciplinary cooperative continuous nursingon psychological state and life quality of patients with breast cancer
+author-作者:张新春@@@王义海@@@葛玉红@@@卢健@@@武璇@@@陈玲@@@
+enauthor-作者英文:Zhang Xinchun@@@Wang Yihai@@@Ge Yuhong@@@Lu Jian@@@Wu Xuan@@@Chen Ling@@@
+jg-机构:新疆医科大学附属肿瘤医院综合内科二病区, 乌鲁木齐,830011@@@新疆医科大学附属肿瘤医院乳腺放疗科, 乌鲁木齐,830011@@@新疆医科大学附属肿瘤医院头颈放疗科, 乌鲁木齐,830011@@@新疆医科大学附属肿瘤医院宁养院, 乌鲁木齐,830011@@@新疆医科大学附属肿瘤医院营养科, 乌鲁木齐,830011@@@新疆医科大学附属肿瘤医院护理部, 乌鲁木齐,830011@@@
+kan_name-刊名:中华现代护理杂志
+enkan_name-刊名英文:Chinese Journal of Modern Nursing
+doi-doi:10.3760/cma.j.issn.1674-2907.2018.02.017
+year-年份:2018
+qi-期:2
+abstract-摘要:目的 探讨多学科合作延续护理对乳腺癌患者心理状态和生活质量的影响.方法 选取2016年2—6月即将出院的乳腺癌患者105例,随机分为对照组51例和观察组54例.对照组给予常规出院健康指导护理.观察组由护士、医生、心理师、营养师组成多学科合作团队,利用微信、QQ平台、电话、病友俱乐部给予延续护理.随访12周后,采用SAS、SDS及乳腺癌患者特异量表(FACT-B)评价两组干预效果.结果 观察组SAS和SDS评分分别为(34.18±5.34)、(35.73±4.26)分,对照组分别为(56.35±7.12)、(49.36±6.32)分,两组比较差异有统计学意义(t值分别为21.890、18.340;P
+enabstract-摘要英文:
+fund-基金:新疆医科大学人文社会科学基金项目(2014XYDSK66)Humanities and Social Sciences Foundation of Xinjiang Medical University (2014XYDSK66)
+keywords-关键词:乳腺肿瘤@@@生活质量@@@延续护理@@@多学科合作@@@心理状态@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-08 00:00:00
+page_code-页码:199-202
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:聚焦解决模式对慢性阻塞性肺疾病患者应对方式及生活质量的影响
+entitle-外文题名:The impact of solution focused approach on coping style and life quality of patients with COPD
+author-作者:谭瑛@@@雷玲@@@李俊@@@
+enauthor-作者英文:TAN Ying@@@LEI Ling@@@LI Jun@@@
+jg-机构:四川省自贡市第四人民医院重症监护室,四川 自贡,643000@@@四川省自贡市第四人民医院 肝胆外科,四川 自贡,643000@@@
+kan_name-刊名:实用医院临床杂志
+enkan_name-刊名英文:Practical Journal of Clinical Medicine
+doi-doi:
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨聚焦解决模式对慢性阻塞性肺疾病(COPD)患者应对方式及生活质量的影响,为拓展COPD患者护理干预方法提供参考.方法 选择2014年4月至2016年6月收治的COPD患者112例,采用随机数字表法分为观察组和对照组各56例,对照组给予包括健康教育、心理支持、用药指导、并发症预防及处理等常规护理干预,观察组联合应用聚焦解决模式干预,随访6个月,比较两组患者的应对方式及生活质量.结果 观察组面对、回避、屈服评分增加值或减少值均超过目标构建值,且明显高于对照组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:慢性阻塞性肺疾病@@@聚焦解决模式@@@应对方式@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R473.5
+published_time-出版时间:2018-01-25 00:00:00
+page_code-页码:151-153
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:基于生命周期的气象装备库存模式研究
+entitle-外文题名:Research on Inventory Model of Meteorological Equipment Based on Life Cycle
+author-作者:李艳@@@李翠翠@@@陈胜远@@@冷宇@@@
+enauthor-作者英文:LI Yan@@@LI Cui-cui@@@CHEN Sheng-yuan@@@LENG Yu@@@
+jg-机构:贵州省大气探测技术与保障中心,贵阳,550081
+kan_name-刊名:价值工程
+enkan_name-刊名英文:Value Engineering
+doi-doi:
+year-年份:2018
+qi-期:4
+abstract-摘要:随着气象观测要素不断增加,气象观测装备备件的种类也不断增多.本文通过对贵州省气象观测装备备件故障率进行分析,初步判断出气象观测装备的磨合期、稳定期、衰减报废期的运行时长;利用EOQ模型计算出气象观测装备备件的最低库存量与其故障率曲线紧密相关.通过对气象观测装备备件的故障率曲线分析发现,同一气象观测装备备件在不同生命周期阶段其故障率曲线分布也不一样.
+enabstract-摘要英文:
+fund-基金:贵州省气象观测设备备件动态智能化储备系统研究,黔气函〔2016〕276号
+keywords-关键词:气象装备@@@生命周期@@@库存模式@@@
+en_keywords-关键词英文:
+class_code-分类号:P456.8
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:22-24
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:"全面二孩"政策下职业女性工作生活平衡对策研究
+entitle-外文题名:A Study on the Countermeasures of Career Women's Work-life Balance under the Policy of"Two Children"
+author-作者:樊晓军@@@秦芳@@@
+enauthor-作者英文:FAN Xiao-jun@@@QIN Fang@@@
+jg-机构:西安培华学院商学院,西安,710125
+kan_name-刊名:价值工程
+enkan_name-刊名英文:Value Engineering
+doi-doi:
+year-年份:2018
+qi-期:3
+abstract-摘要:"全面二孩"政策的实施,会对女性的就业、工作生活平衡和职业发展造成一定的影响,文章在对工作生活平衡相关文献回顾的基础上,提出构建多维立体化的,由国家、企业、家庭和个人共同承担平衡工作和生活任务的构想.通过设立父亲育儿假、构建立体化托幼服务体系、营造支持工作生活平衡的企业文化,引入虚拟人力资源管理、采用弹性工作制和提供家庭照顾福利等一系列措施,助力职业女性的工作与家庭平衡.
+enabstract-摘要英文:
+fund-基金:2017年度西安培华学院科研项目"'全面二孩'政策下职业女性工作生活平衡研究——基于西安市的调研"(PHKT17069)
+keywords-关键词:全面二孩政策@@@职业女性@@@工作生活平衡@@@弹性工作制@@@
+en_keywords-关键词英文:
+class_code-分类号:F279.23
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:236-238
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:住院老年衰弱综合征患者与生命质量关系的调查分析
+entitle-外文题名:The investigation and analysis of the relationship between patients with senile asthe-nia syndrome and the quality of life
+author-作者:孙凯旋@@@刘永兵@@@薛谨@@@侯萍@@@吴琳凤@@@薛玲玲@@@薛慧萍@@@史宏灿@@@
+enauthor-作者英文:Sun Kaixuan@@@Liu Yongbing@@@Xue Jin@@@Hou Ping@@@Wu Lin-feng@@@Xue Lingling@@@Xue Huiping@@@Shi Hongcan@@@
+jg-机构:225001,扬州大学护理学院@@@扬州大学医学院@@@
+kan_name-刊名:国际护理学杂志
+enkan_name-刊名英文:International Journal of Nursing
+doi-doi:10.3760/cma.j.issn.1673-4351.2018.01.011
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 评估住院老年人衰弱及生命质量状况,并探讨老年衰弱综合征与生命质量之间的关系.方法 采用衰弱表型将患者分为衰弱组衰弱前期及非衰弱组,应用SF-36量表对老年住院患者生命质量进行评估,并应用多元线性回归分析衰弱对生命质量的影响.结果 112例老年住院患者中,27例为衰弱,45例为衰弱前期,40例为非衰弱,与非衰弱、衰弱前期组比较,衰弱组的患者年龄大、患病个数多,生命质量各维度得分均较低,差异有统计学意义(均P
+enabstract-摘要英文:
+fund-基金:2015年度扬州市重点研发计划(社会发展)项目(YZ2015054)Key Research and Development Plan ( Social Development) Project of Yangzhou, 2015 (YZ2015054)
+keywords-关键词:老年人@@@老年衰弱综合征@@@生命质量@@@住院患者@@@衰弱表型@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:41-45
+page_num-页数:5
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:循证护理对宫颈癌患者放疗后的并发症及生活质量的影响
+entitle-外文题名:Effect of evidence-based nursing on the complications and quality of life of patients with cervical cancer after radiotherapy
+author-作者:罗琳@@@周凯@@@邓婵媛@@@陈佩娟@@@
+enauthor-作者英文:LUO Lin@@@ZHOU Kai@@@DENG Chanyuan@@@CHEN Peijuan@@@
+jg-机构:南方医科大学南方医院放疗科 广东 广州 510515@@@南方医科大学南方医院麻醉科,广东 广州,510515@@@
+kan_name-刊名:安徽医药
+enkan_name-刊名英文:Anhui Medical and Pharmaceutical Journal
+doi-doi:10.3969/j.issn.1009-6469.2018.01.049
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨循证护理对宫颈癌患者放疗后的并发症及生活质量的影响.方法 选取该院2013年3月—2016年3月的98例宫颈癌患者进行护理干预,根据护理方法不同分为观察组和对照组各49例,对照组采用常规护理,观察组在对照组的基础上进行循证护理,采用焦虑自评量表(SAS)、抑郁自评量表(SDS)对患者不良情绪进行评估;干预前后对宫颈癌生活质量评分表(FACT-G)进行评价,干预后观察两组患者的SAS和SDS评分、生活质量评分及并发症发生情况.结果 护理后观察组的SAS、SDS评分明显比对照组低,差异有统计学意义(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:循证护理@@@宫颈癌@@@并发症@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-17 00:00:00
+page_code-页码:186-188
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:正念训练对2型糖尿病患者心理痛苦及生活质量的影响
+entitle-外文题名:Effects of mindfulness training on diabetes-related distress and quality of life in patients with type 2 diabetes mellitus
+author-作者:高俊香@@@杨俊花@@@赵秀君@@@康烁@@@葛艳红@@@秦玲@@@张玥@@@
+enauthor-作者英文:Gao Junxiang@@@Yang Junhua@@@Zhao Xiujun@@@Kang Shuo@@@Ge Yanhong@@@Qin Ling@@@Zhang Yue@@@
+jg-机构:河北医科大学第二医院内分泌科, 石家庄,050000
+kan_name-刊名:中华现代护理杂志
+enkan_name-刊名英文:Chinese Journal of Modern Nursing
+doi-doi:10.3760/cma.j.issn.1674-2907.2018.02.014
+year-年份:2018
+qi-期:2
+abstract-摘要:目的 探讨正念训练对2型糖尿病患者心理痛苦及生活质量的影响,为糖尿病患者进行护理干预提供依据.方法 将90例住院的2型糖尿病患者利用随机数字表随机分为对照组和观察组,各45例.对照组给予常规健康教育,观察组在此基础上由心理咨询师、教育护士等7名成员组成的正念干预团队对患者进行正念训练,两组患者均随访6个月,测量两组患者干预前后6个月糖尿病相关心理痛苦及生活质量评分,采用t检验进行组间比较.结果 干预后观察组糖尿病相关心理痛苦总分及各维度得分分别为(1.81±0.40)、(1.99±0.45)、(1.45±0.20)、(2.01±0.27)、(1.51±0.21)分,对照组分别为(2.07±0.24)、(2.21±0.40)、(1.61±0.19)、(2.57±0.25)、(2.20±0.23)分,观察组低于对照组,差异均有统计学意义(t值分别为3.54、2.32、3.69、9.68、14.11;P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:糖尿病,2型@@@生活质量@@@正念训练@@@心理痛苦@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-08 00:00:00
+page_code-页码:186-190
+page_num-页数:5
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:延续性护理对慢性阻塞性肺疾病患者康复及生活质量的影响
+entitle-外文题名:The effects of continuing nursing on rehabilitation and quality of life of patients with chronic obstructive pulmonary disease
+author-作者:彭申梅@@@伍宇华@@@李静@@@
+enauthor-作者英文:Peng Shenmei@@@Wu Yuhua@@@Li Jing@@@
+jg-机构:617000,四川省攀枝花市中西医结合医院呼吸科@@@617000,四川省攀枝花市中西医结合医院眼科@@@617000,四川省攀枝花市中西医结合医院胸外科@@@
+kan_name-刊名:国际护理学杂志
+enkan_name-刊名英文:International Journal of Nursing
+doi-doi:10.3760/cma.j.issn.1673-4351.2018.01.004
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨延续性护理对慢性阻塞性肺疾病患者康复及生活质量的影响.方法 利用计算机检索及手工检索的方法,通过中国知网、万方数据、维普数据、PubMed、Embase数据库对国内外公开发表的关于延续性护理对慢性阻塞性肺疾病影响的原始研究,利用meta分析方法评价其疗效.结果 最终纳入13项研究共1050例患者,其中延续性护理组526例,常规护理组524例.meta分析显示,延续性护理组生活质量较常规护理组高(WMD=-11.40,95％CI:-17.35～-5.46;Z=3.76,P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:延续性护理@@@慢性阻塞性肺疾病@@@康复医学@@@meta分析@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:13-18
+page_num-页数:6
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:浅谈BIM理念下的装配式建筑全生命周期管理
+entitle-外文题名:Discussion on Life Cycle Management of Assembly Building under BIM Concept
+author-作者:林文明
+enauthor-作者英文:LIN Wen-ming
+jg-机构:上海市杨浦区建筑业管理事务中心,上海,200090
+kan_name-刊名:价值工程
+enkan_name-刊名英文:Value Engineering
+doi-doi:
+year-年份:2018
+qi-期:1
+abstract-摘要:中国改革开放以来,建筑行业的发展十分迅猛,各种技术纷纷运用在了技术行业,地产大亨渐渐多了起来.如今,建筑行业渐渐走到了瓶颈期,为了使我国的建筑行业更好地发展,更加有效地利用我国的建筑资源,并与社会发展有机结合,提高建筑行业的技术水平和管理能力,就要求突破目前建筑行业的建筑技术.在此背景下,BIM技术渐渐走入了人们的视线.作为如今研究最多的一种建筑种类,装配式建筑需要将BIM技术引入到装配式建筑中,这样才能解决其存在的问题,更好地发挥装配式建筑的优点.本文将浅谈BIM理念下的装配式建筑全生命周期管理问题研究,并研究如何使得建筑行业更加快速的发展.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:BIM理念@@@装配式建筑@@@全生命周期@@@管理问题@@@
+en_keywords-关键词英文:
+class_code-分类号:TU17
+published_time-出版时间:2018-01-08 00:00:00
+page_code-页码:51-52
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:益气活血汤对气虚血瘀型心衰患者中医证候及生活质量的影响
+entitle-外文题名:Effect of Yiqi Huoxue decoction on TCM syndrome and quality of life in patients with heart failure due to Qi deficiency and blood stasis
+author-作者:王科@@@张弘@@@李曦@@@
+enauthor-作者英文:Wang Ke@@@Zhang Hong@@@Li Xi@@@
+jg-机构:成都医学院第一附属医院 成都610500
+kan_name-刊名:陕西中医
+enkan_name-刊名英文:Shaanxi Journal of Traditional Chinese Medicine
+doi-doi:10.3969/j.issn.1000-7369.2018.01.010
+year-年份:2018
+qi-期:1
+abstract-摘要:目的:探讨益气活血汤对气虚血瘀型心衰患者中医证候及生活质量的影响.方法:将100例气虚血瘀证慢性心力衰竭(CHF)患者随机分为对照组和治疗组各50例,对照组采用西药治疗,治疗组在对照组基础上加用益气活血汤,疗程为4周;观察比较两组患者治疗前后中医症候及生活质量的变化.结果:治疗组总有效率比对照组高,差异显著(P
+enabstract-摘要英文:
+fund-基金:四川省技术创新资助项目(2013CE12347)
+keywords-关键词:心力衰竭/中西医结合疗法@@@生活质量@@@@益气活血汤@@@
+en_keywords-关键词英文:
+class_code-分类号:R541.6
+published_time-出版时间:2018-01-10 00:00:00
+page_code-页码:32-34
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:健康预期寿命国际比较及中国健康预期寿命预测研究
+entitle-外文题名:Study on International Comparison of Healthy Life Expectancy and Prediction of Healthy Life Expectancy in China
+author-作者:李成福@@@刘鸿雁@@@梁颖@@@王晖@@@李前慧@@@
+enauthor-作者英文:LI Chengfu@@@LIU Hongyan@@@LIANG Ying@@@WANG Hui@@@LI Qianhui@@@
+jg-机构:中国人口与发展研究中心,北京,100081@@@北京中医药大学,北京,100029@@@
+kan_name-刊名:人口学刊
+enkan_name-刊名英文:Population Journal
+doi-doi:10.16405/j.cnki.1004-129X.2018.01.001
+year-年份:2018
+qi-期:1
+abstract-摘要:健康预期寿命由预期寿命衍生而来,是人群保持完全健康状态尚能存活的期望年数,是评估人群健康水平的指标.健康预期寿命既能反映生命数量(长寿水平),又能反映生命质量(健康程度).世界卫生组织在《1997年世界卫生报告》中呼吁在关心预期寿命的同时更要重视健康预期寿命,随后与健康预期寿命相关的国际研究、国际政策的战略规划逐步推广该指标的应用.目前发达国家十分重视健康预期寿命研究,将其纳入国家战略规划.本文系统梳理了相关国家和地区的健康预期寿命发展状况,根据发达国家健康预期寿命发展特征,采用健康预期寿命年均增加法和健康预期寿命和预期寿命差值法,对我国2020年及2030年健康预期寿命进行推测,为我国制定"健康中国"发展规划提供对策建议.2020年中国健康预期寿命为69.2岁左右(69.1～69.4),其中男性为67.2岁左右(67.1～67.4),女性为71.3岁左右(71.1～71.5);2030年中国健康预期寿命为70.9岁左右(70.6～71.2),其中男性为69.1岁左右(68.8～69.4),女性为72.7岁左右(72.4～73.1).建议将健康预期寿命的发展纳入中国2030经济社会发展规划指标,建立中国健康预期寿命的监测指标体系.
+enabstract-摘要英文:
+fund-基金:国家卫计委规划司资助项目:中国健康预期寿命预测及国际比较(5001041622)
+keywords-关键词:预期寿命@@@健康预期寿命@@@健康评估@@@
+en_keywords-关键词英文:
+class_code-分类号:C924.24
+published_time-出版时间:2018-01-25 00:00:00
+page_code-页码:5-17
+page_num-页数:13
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:围手术期特殊护理对胸腰段爆裂型骨折合并神经损伤患者术后疗效和生活质量的影响
+entitle-外文题名:Effect of perioperative special nursing on patients of thoracolumbar burst fracture with nerve damage and its influence on postoperative life quality
+author-作者:潘俊
+enauthor-作者英文:PAN Jun
+jg-机构:内江市中医医院骨五科,四川 内江,641000
+kan_name-刊名:安徽医药
+enkan_name-刊名英文:Anhui Medical and Pharmaceutical Journal
+doi-doi:10.3969/j.issn.1009-6469.2018.01.047
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探究与分析胸腰段爆裂型骨折合并神经损伤患者的围手术期特殊护理及对术后生活质量的影响.方法 选取80例胸腰段爆裂性合并神经损伤患者,按照就诊时间顺序随机分为围手术期常规护理组与围手术期特殊护理组,每组各40例,对比两组术后疼痛及腰背部功能评分、神经功能恢复及术后生活质量评价.结果 围手术期特殊护理组与围手术期常规护理组相比疼痛有效率,腰背功能评分优良率升高,但差异无统计学意义(P>0.05).围手术期特殊护理组与围手术期常规护理组相比神经功能C级所占比例降低,E级所占比例升高.围手术期特殊护理组与围手术期常规护理组术后较术前相比生活质量中生理功能、家庭功能、情感功能、社会功能评分升高,围手术期特殊护理组上述评分升高更加显著,差异有统计学意义(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:胸腰段爆裂型骨折@@@神经损伤@@@围手术期护理@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-17 00:00:00
+page_code-页码:180-183
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:上海市长宁区老年肿瘤患者中医体质与生存质量相关性研究
+entitle-外文题名:The correlation study about traditional Chinese medicine constitution and quality of life in the population of the elderly patients with tumor in Changning district of Shanghai
+author-作者:马恰怡@@@王磊@@@夏庆华@@@朱立峰@@@
+enauthor-作者英文:Ma Qiayi@@@Wang Lei@@@Xia Qinghua@@@Zhu Lifeng@@@
+jg-机构:200051,上海市长宁区天山中医医院@@@200051,上海市长宁区疾病预防控制中心@@@
+kan_name-刊名:国际中医中药杂志
+enkan_name-刊名英文:International Journal of Traditional Chinese Medicine
+doi-doi:10.3760/cma.j.issn.1673-4246.2018.01.003
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 对上海市长宁区老年肿瘤患者的中医体质类型和生存质量进行相关性分析,为区域高发老年肿瘤患者的社区随访管理和康复提供参考.方法 收集2013年1月-2015年10月上海市长宁区肺癌、胃癌及结直肠癌患者的相关资料,采用中医体质辨识表与功能状态评估量表进行体质辨识和生存质量评估.结果 本研究共纳入673例肿瘤患者,平均年龄(75.8±6.7)岁,其中,结直肠癌381例(56.6％)、肺癌181例(26.9％)、胃癌111例(16.5％).88.3％的肿瘤患者为气虚质,41.4％为复合体质.53.3％的肿瘤患者初次卡氏生活质量评分(Karnofsky Performance Status,KPS)为80分,54.6％的末次KPS评分为80分,2次KPS评分比较差异有统计学意义(P=0.002).阳虚体质结直肠癌患者与末次随访KPS评分呈正相关(rs=0.112,P=0.042);血瘀体质胃癌患者与末次随访KPS评分呈负相关(rs=0.227,P=0.021).结论 上海市长宁区高发老年肿瘤患者以气虚体质为主,初末次KPS评分均较高.患者的中医体质与其KPS评分存在相关性.可依据高发老年肿瘤患者中医体质给予相应中医康复方案.
+enabstract-摘要英文:
+fund-基金:长宁区科学技术委员会重点项目(CNKW2014Z09)@@@中医药管理(健康管理)人才培养项目(ZY3-RCPY-3-1001)
+keywords-关键词:肿瘤@@@中医@@@体质学说@@@生活质量@@@流行病学@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-25 00:00:00
+page_code-页码:9-13
+page_num-页数:5
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:持续早期综合护理干预对MAC30阳性老年乳腺癌患者术后心理和生存质量的影响
+entitle-外文题名:Effects of continuous early comprehensive nursing intervention on psychological and quality of life of MAC30 positive elderly breast cancer patients after operation
+author-作者:徐小妍@@@戴经纬@@@刘冬梅@@@赵毅@@@
+enauthor-作者英文:Xu Xiaoyan@@@Dai Jingwei@@@Liu Dongmei@@@Zhao Yi@@@
+jg-机构:中国医科大学附属盛京医院肝胆乳腺科,辽宁 沈阳,110003@@@中国医科大学附属盛京医院胰腺甲状腺乳腺外科,辽宁 沈阳,110003@@@
+kan_name-刊名:现代肿瘤医学
+enkan_name-刊名英文:Journal of Modern Oncology
+doi-doi:10.3969/j.issn.1672-4992.2018.02.016
+year-年份:2018
+qi-期:2
+abstract-摘要:目的:探讨持续早期综合护理干预对脑膜瘤相关蛋白(MAC30)阳性老年乳腺癌患者术后心理和生存质量的影响.方法:2011年9月到2016年12月选择在我院诊治的MAC30阳性老年乳腺癌术后患者160例作为研究对象,根据随机数字表法分为观察组与对照组各持续早期综合护理干预,两组护理观察时间为3个月.结果:两组护理前肩关节活动度对比差异无统计学意义(P>0.05),护理后都呈现明显上升的趋势(P
+enabstract-摘要英文:
+fund-基金:辽宁省自然科学基金项目(2015020544)
+keywords-关键词:持续早期综合护理干预@@@脑膜瘤相关蛋白@@@老年人@@@乳腺癌@@@生存质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R737.9
+published_time-出版时间:2018-01-13 00:00:00
+page_code-页码:219-222
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:实施生活德育,精准培育社会主义核心价值观
+entitle-外文题名:The Implementation of Moral Education in Life to Accurately Cultivate Socialist Core Values
+author-作者:刘亮元
+enauthor-作者英文:LIU Liang-yuan
+jg-机构:福建对外经济贸易职业技术学院,福建 福州,350000
+kan_name-刊名:集宁师范学院学报
+enkan_name-刊名英文:Journal of Jining Normal University
+doi-doi:
+year-年份:2018
+qi-期:1
+abstract-摘要:以生活德育为指引,精准培育核心价值观教育有助于充分发挥该理念对于德育实践的指导作用.针对当前社会主义核心价值观培养的紧迫性,以及构建社会主义核心价值体系实践的必要性,结合现阶段高校现状,实施生活德育精准培育社会主义核心价值观实现路径是:通过现代化、开放式教育手段以增强德育教育的实效性;拓展日常德育工作从而提升学生的内在认同感;拓展创新、创业提高大学生的生活德育实践体验.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:生活德育@@@精准@@@社会主义核心价值观@@@
+en_keywords-关键词英文:
+class_code-分类号:D648
+published_time-出版时间:2018-01-24 00:00:00
+page_code-页码:43-45,58
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:18-20世纪初西方视野中的中国休闲生活
+entitle-外文题名:Westerners'View on Chinese's Leisure Life from the 18 th Century to the Early 21 st Century
+author-作者:朱立新
+enauthor-作者英文:ZHU Lixin
+jg-机构:上海师范大学旅游学院,上海,200234
+kan_name-刊名:湖北理工学院学报（人文社会科学版）
+enkan_name-刊名英文:Journal of Hubei Polytechnic University(Humanities and Social Sciences)
+doi-doi:10.3969/j.ISSN.2095-4662.2018.01.003
+year-年份:2018
+qi-期:1
+abstract-摘要:18世纪起,西方进入中国的人数陡然增加,他们身份各异,但基本上都是以"他者"的眼光居高临下地审视这个古老国度,他们的游记、报告难免会带着种族中心主义的烙印.但即便他们所打造的"西洋镜"只是一面变形的哈哈镜,也还能照出一些我们中国人习焉不察的地方.来华西方人对当时中国人的休闲方式有比较细致地观察,无论对上层社会还是底层大众的娱乐活动都有生动地描述.在他们看来,中国各阶层普遍缺乏休闲时间,中国人没有日常休息日,休闲时间主要集中在新年等传统节日.中国的公共休闲空间总体上是破旧、肮脏、嘈杂的,而且基础设施相当落后;半公共休闲空间和私人休闲空间则是新奇、陌生和神秘的.中国人的休闲生活存在诸多制约因素,除了时间、金钱、设施的匮乏外,最主要的问题是心理因素和社会因素的制约.这些因素对女性休闲权益造成的影响尤为显著.西方人对中国休闲生活的观察和分析,直到今天依然还有催人反思之处.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:西方视野@@@中国人@@@休闲@@@
+en_keywords-关键词英文:
+class_code-分类号:G122
+published_time-出版时间:2018-01-13 00:00:00
+page_code-页码:16-21,45
+page_num-页数:7
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:我国城市生活垃圾分类措施失效成因及对策研究
+entitle-外文题名:Study on the Policy Malfunction and Countermeasures of City Life Garbage Classification in China
+author-作者:刘宇熹@@@于明亮@@@
+enauthor-作者英文:LIU Yuxi@@@YU Mingliang@@@
+jg-机构:上海理工大学 管理学院,上海,200093@@@上海理工大学 经济管理实验中心,上海,200093@@@
+kan_name-刊名:物流科技
+enkan_name-刊名英文:Logistics Sci-tech
+doi-doi:
+year-年份:2018
+qi-期:1
+abstract-摘要:生活垃圾分类回收是城市垃圾处理中的重点和难点,如何提高垃圾分类参与度、 持久性以及分类后末端资源化处理效率是解决问题的关键.基于环境效益与经济效益整合,文章指出缺乏完整细分的垃圾分类处理产业链条、 现存回收体系中非正式组织的消极影响、 分类标准与实际不切合等因素导致分类措施失效,并提出提升垃圾分类在政府工作序列中的地位、 鼓励公众参与、 构建多主体的全产业链以及制定可行的垃圾分类标准与回收产业对接等对策.
+enabstract-摘要英文:
+fund-基金:国家自然科学基金项目,项目(71171134)@@@上海市大学生创新创业项目,项目(SH2017058)@@@上海理工大学教师教学发展研究项目,项目(CFTD17019Z)
+keywords-关键词:城市生活垃圾@@@垃圾分类@@@多主体回收网络@@@
+en_keywords-关键词英文:
+class_code-分类号:F713.2
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:5-8
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:综合护理干预对腰椎间盘突出症患者康复及生活质量的影响
+entitle-外文题名:Effect of Comprehensive Nursing Intervention on Rehabilitation and Quality of Life in Patients with Lumbar Intervertebral Disc Protrusion
+author-作者:邓艳
+enauthor-作者英文:Deng Yan
+jg-机构:四川省人民医院友谊医院 四川 成都 610000
+kan_name-刊名:饮食保健
+enkan_name-刊名英文:Diet Health
+doi-doi:
+year-年份:2018
+qi-期:2
+abstract-摘要:目的:探讨综合护理干预对腰椎间盘突出症患者康复及生活质量的影响.方法:回顾我院2015年2月-2016年2月收治105例腰间盘突出症住院患者资料,对照组52例患者接受常规护理,观察组53例患者接受综合护理干预.比较两组患者护理满意度、疼痛级别、生活质量评分.结果:两组患者护理满意度比较有差异(u=﹣2.708,P=0.007);两组患者疼痛级别比较显著差异(u=﹣2.941,P=0.003);观察组患者SF-36评分显著高于对照组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:综合护理干预@@@腰椎间盘突出症@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R47
+published_time-出版时间:2018-01-23 00:00:00
+page_code-页码:233-234
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:浅析抗生素治疗急性肺脓肿的临床效果以及对生活质量的影响
+entitle-外文题名:Analysis of clinical effect of antibiotic therapy in patients with acute pulmonary abscess, and its influence on quality of life
+author-作者:宋学苓
+enauthor-作者英文:SONG Xue-ling
+jg-机构:111000,辽阳市中心医院新城医院
+kan_name-刊名:中国现代药物应用
+enkan_name-刊名英文:Chinese Journal of Modern Drug Application
+doi-doi:10.14164/j.cnki.cn11-5581/r.2018.01.047
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 对急性肺脓肿患者接受抗生素治疗的临床效果进行研究分析,评价患者接受治疗后的安全性和生活质量改善情况.方法 72例急性肺脓肿患者,根据治疗方法不同分为对照组和试验组,各36例.对照组患者接受清热解毒法治疗,试验组患者接受抗生素治疗.比较两组患者治疗效果、生活质量及不良反应发生情况.结果 试验组患者治疗总有效率为97.2％,高于对照组患者的77.8％,差异具有统计学意义(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:急性肺脓肿@@@抗生素@@@清热解毒法@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-22 00:00:00
+page_code-页码:79-80
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:COPD患者血清中IL-21的表达及其与肺功能、生活质量的相关性分析
+entitle-外文题名:Expression of IL-21 in serum of COPD patients and its correlation with lung function and quality of life
+author-作者:吴莹莹@@@江成养@@@郭卫东@@@龚志均@@@谭康新@@@
+enauthor-作者英文:
+jg-机构:528000,南方医科大学南海医院
+kan_name-刊名:中国实用医药
+enkan_name-刊名英文:China Practical Medical
+doi-doi:10.14163/j.cnki.11-5547/r.2018.01.001
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨慢性阻塞性肺疾病(COPD)患者血清中白细胞介素-21(IL-21)表达水平及其与肺功能、生活质量的相关性.方法 30例COPD急性加重期患者作为急性加重期COPD组,30例COPD稳定期患者作为稳定期COPD组,30例健康体检者作为对照组,采用Th1/Th2/Th17定量抗体芯片检测各组IL-21水平,采用意大利科时迈肺功能仪检查各组肺功能,采用COPD评估测试量表(CAT)评定各组生活质量,并分析IL-21水平与肺功能、生活质量的相关性.结果 急性加重期COPD组IL-21水平、CAT评分均高于稳定期COPD组和对照组,一秒钟用力呼气容积占预计值百分比(FEV1％)、一秒钟用力呼气容积占用力肺活量百分比(FEV1/FVC)均低于稳定期COPD组和对照组,差异均具有统计学意义(P
+enabstract-摘要英文:
+fund-基金:2016年佛山市卫生和计划生育局医学科研课题(20160175)
+keywords-关键词:慢性阻塞性肺疾病@@@白细胞介素-21@@@肺功能@@@生活质量@@@相关性@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-18 00:00:00
+page_code-页码:1-3
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:中医综合护理对中风后抑郁患者生活质量的研究
+entitle-外文题名:The Study on Comprehensive Nursing of Traditional Chinese Medicine on the Quality of Life of Patients with Post-stroke Depression
+author-作者:马英
+enauthor-作者英文:MA Ying
+jg-机构:郑州大学附属医院南阳市中心医院门诊部 河南 南阳473000
+kan_name-刊名:光明中医
+enkan_name-刊名英文:Guangming Journal of Chinese Medicine
+doi-doi:10.3969/j.issn.1003-8914.2018.01.060
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 研究中医综合护理对中风后抑郁患者生活质量的影响.方法 选取我院住院并符合纳入标准的脑中风后抑郁患者98例,按照随机数字表法将患者分为两组,每组49例.对照组给予常规基础护理;观察组在对照组基础上再给予中医综合护理.观察治疗前、治疗后两组患者运动功能积分(Fugl-Meyer)、Barthel指数、匹兹堡睡眠质量指数(PSQI)、汉密尔顿抑郁量表(HAMD)的变化.结果 治疗后观察组Fugl-Meyer、Barthel、HAMD、PSQI均优于对照组,P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:郁证@@@中医综合护理@@@脑中风@@@中风后抑郁@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-25 00:00:00
+page_code-页码:134-135,143
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:从个体生命的追寻到呐喊与承担 ——论汪铭竹1940年代诗歌的转变
+entitle-外文题名:From Individual's Life Pursuit to the Exclamation and Bearing: On the Transformation of Wang Ming-zhu's Poetry in 1940s
+author-作者:司真真
+enauthor-作者英文:SI Zhen-zhen
+jg-机构:郑州师范学院 初等教育学院,河南 郑州,450044
+kan_name-刊名:长沙理工大学学报（社会科学版）
+enkan_name-刊名英文:Journal of Changsha University of Science and Technology (Social Science Edition)
+doi-doi:10.16573/j.cnki.1672-934x.2018.01.011
+year-年份:2018
+qi-期:1
+abstract-摘要:1930年代,汪铭竹安享书斋生活的情趣,选择了"扬首天边外"的人生态度,追寻个体生命之崇高价值与存在意义,却陷入颓废不可自拔.1937年后,在动荡的现实和左翼的影响下,汪铭竹从自我的世界中走出,变为"跃马向前的"呐喊者与承担者,诗歌艺术上深受奥登等英美现代主义的影响,诗中经常运用悖论和大跨度比喻.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:汪铭竹@@@1940年代诗歌@@@转变@@@生命追寻@@@"跃马向前"@@@
+en_keywords-关键词英文:
+class_code-分类号:I207.25
+published_time-出版时间:2018-01-27 00:00:00
+page_code-页码:76-81
+page_num-页数:6
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:子宫瘢痕妊娠患者手术治疗方式对临床疗效及生活质量的影响
+entitle-外文题名:Effect of surgical treatment on clinical efficacy and quality of life in patients with uterine scar pregnancy
+author-作者:杨晓飞@@@刘现红@@@付亮亮@@@
+enauthor-作者英文:Yang Xiaofei@@@Liu Xianghong@@@Fu Liangliang@@@
+jg-机构:455000,河南·安阳 安阳市人民医院
+kan_name-刊名:临床心身疾病杂志
+enkan_name-刊名英文:Journal of Clinical Psychosomatic Diseases
+doi-doi:10.3969/j.issn.1672-187X.2018.01.025
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨不同手术方案对子宫瘢痕妊娠患者临床疗效及生活质量的影响.方法 将126例子宫瘢痕妊娠患者采用随机数字表法分为A、B两组,各63例.A组给予髂内动脉结扎术联合切口病灶切除术治疗,B组给予双侧子宫动脉栓塞后清宫术治疗,手术相关指标,术后3个月内并发症情况,比较两组患者手术前后焦虑自评量表、抑郁自评量表及生活质量评定简表评分.结果 A组患者术中出血量显著多于B组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:子宫瘢痕妊娠@@@髂内动脉结扎术联合切口病灶切除术@@@双侧子宫动脉栓塞后清宫术@@@临床疗效@@@焦虑自评量表@@@抑郁自评量表@@@生活质量评定简表@@@
+en_keywords-关键词英文:
+class_code-分类号:R713.8
+published_time-出版时间:2017-12-26 00:00:00
+page_code-页码:84-87
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:自体脂肪移植术治疗半侧颜面萎缩症临床疗效及对患者生活质量的影响
+entitle-外文题名:Effect of autologous fat transplantation on the clinical efficacy and life quality in patients with hemifacial atrophy
+author-作者:靳君@@@翟弘峰@@@刘清亮@@@贾振华@@@罗小华@@@
+enauthor-作者英文:Jin Jun@@@Zhai Hongfeng@@@Liu Qingliang@@@Jia Zhenhua@@@Luo Xiaohua@@@
+jg-机构:450003,河南·郑州 河南省人民医院
+kan_name-刊名:临床心身疾病杂志
+enkan_name-刊名英文:Journal of Clinical Psychosomatic Diseases
+doi-doi:10.3969/j.issn.1672-187X.2018.02.024
+year-年份:2018
+qi-期:2
+abstract-摘要:目的 观察自体脂肪移植术治疗半侧颜面萎缩症临床疗效以及对患者术后生活质量的影响.方法 将28例半侧颜面萎缩症患者按照手术方法不同分为观察组14例,对照组14例,观察组行自体脂肪移植术治疗,对照组行传统脂肪筋膜瓣移植术治疗.统计分析两组手术时间、脂肪移植次数、总住院天数及手术前后面部非对称率、组织缺损量,手术前后采用简明健康状况调查量表评定两组患者的生活质量.结果 观察组手术时间及总住院天数均显著少于对照组,脂肪移植次数显著多于对照组(P0.05);手术后两组简明健康状况调查量表各维度评分均较手术前显著升高,且观察组显著高于对照组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:半侧颜面萎缩症@@@面部疾病@@@自体脂肪移植术@@@脂肪筋膜瓣移植术@@@临床疗效@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R622.9
+published_time-出版时间:2018-01-22 00:00:00
+page_code-页码:88-90
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:利培酮与喹硫平对老年脑血管病所致精神障碍患者生活质量的影响
+entitle-外文题名:Effect of risperidone and quetiapine on quality of life in elder-ly patients with mental disorders caused by cerebrovascular disease
+author-作者:王邦雷
+enauthor-作者英文:Wang Banglei
+jg-机构:459000,河南·济源 济源市中医院
+kan_name-刊名:临床心身疾病杂志
+enkan_name-刊名英文:Journal of Clinical Psychosomatic Diseases
+doi-doi:10.3969/j.issn.1672-187X.2018.01.028
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨利培酮与喹硫平对老年脑血管病所致精神障碍患者生活质量的影响.方法将94例脑血管病所致精神障碍患者按照随机双盲法分为A、B两组,各47例.A组给予利培酮治疗,B组给予喹硫平治疗.于治疗前后比较两组日常生活能力量表及简明精神病评定量表评分,比较两组患者治疗总有效率及不良反应发生率.结果两组患者临床疗效比较差异无统计学意义(P>0.05);治疗后两组日常生活能力量表及简明精神病评定量表评分均显著低于治疗前(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:老年脑血管病@@@精神障碍@@@喹硫平@@@利培酮@@@日常生活能力量表@@@简明精神病评定量表@@@
+en_keywords-关键词英文:
+class_code-分类号:R749.13
+published_time-出版时间:2017-12-26 00:00:00
+page_code-页码:95-97
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:扶正清解方辅助肺癌化疗对晚期肺癌患者的临床疗效及生活质量的影响
+entitle-外文题名:Effect of Fuzheng Cleansing Decoction on the Clinical Efficacy and Quality of Life of Patients with Advanced Lung Cancer
+author-作者:朱杰@@@郁有贵@@@周建军@@@
+enauthor-作者英文:Zhu Jie@@@Yu Yougui@@@Zhou Jianjun@@@
+jg-机构:泰州市中西医结合医院肿瘤科,江苏 泰州,225300
+kan_name-刊名:当代医学
+enkan_name-刊名英文:Contemporary Medicine
+doi-doi:10.3969/j.issn.1009-4393.2018.02.032
+year-年份:2018
+qi-期:2
+abstract-摘要:目的 探讨扶正清解方辅助肺癌化疗对晚期肺癌患者的临床疗效及生活质量的影响.方法 选取80例晚期肺癌患者依照其意愿分为观察组与参考组,各40例,观察组患者在肺癌化疗的基础上采用扶正清解方辅助治疗,参考组患者单纯接受肺癌化疗治疗,观察两组患者治疗后近期效果、临床症状改善情况、1年内生存率以及生活质量.结果 观察组与参考组患者治疗后近期治疗总有效率分别为92.5％、75.0％,两组比较差异有统计学意义(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:扶正清解方@@@晚期@@@肺癌@@@化疗@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-24 00:00:00
+page_code-页码:77-79
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:高校生命教育现状调研报告 ——以湖南四所高校为例
+entitle-外文题名:Current Situation of Life Education in Colleges and Universities—Research Report of Four Universities in Hunan as an Example
+author-作者:邹连方
+enauthor-作者英文:ZOU Lian-fang
+jg-机构:湖南理工职业技术学院,湖南 湘潭,411104
+kan_name-刊名:教育教学论坛
+enkan_name-刊名英文:jiaoyu jiaoxue luntan
+doi-doi:
+year-年份:2018
+qi-期:3
+abstract-摘要:高校生命教育是帮助大学生认知、认同、践行生命理念的重要途径.本课题组通过对大学生的生命态度以及各高校生命教育的现状调研,了解他们对自身生命、压力和挫折、死亡与自杀、当前高校生命教育现状等的态度进行分析并反思,研究者认为高校要增加生命教育课程或内容,高校的多个部门既分工又合作,形成生命教育合力,利用网络媒介拓宽生命教育渠道.
+enabstract-摘要英文:
+fund-基金:课题成果:本文系湖南省教育科学规划课题《网以载道:高校生命教育的整合与创新研究》阶段性研究成果(XJK016CDY004)
+keywords-关键词:高校@@@生命教育@@@网络媒介@@@合力@@@
+en_keywords-关键词英文:
+class_code-分类号:G640
+published_time-出版时间:2018-01-19 00:00:00
+page_code-页码:95-96
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:综合护理干预对冠心病患者生活质量的影响观察
+entitle-外文题名:The effect of comprehensive nursing intervention on the quality of life of patients with coronary heart disease
+author-作者:韩云华@@@李真@@@赵海云@@@
+enauthor-作者英文:Han Yunhua@@@Li Zhen@@@Zhao Haiyun@@@
+jg-机构:252000,聊城市复退军人医院内科
+kan_name-刊名:中国社区医师
+enkan_name-刊名英文:Chinese Community Doctors
+doi-doi:10.3969/j.issn.1007-614x.2018.2.82
+year-年份:2018
+qi-期:2
+abstract-摘要:目的:研究、分析在冠心病患者护理中采用综合护理干预对患者生活质量的影响.方法:收治冠心病患者80例,分两组.对照组给予常规模式护理,观察组给予综合护理干预,对比两组患者生活质量.结果:观察组生活质量各项指标评分均高于对照组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:冠心病@@@综合护理@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-24 00:00:00
+page_code-页码:127-128
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:依达拉奉对急性脑卒中患者NIHSS评分、ADL评分及生活质量的改善作用
+entitle-外文题名:Effect of edaravone on the improvement of NIHSS score, ADL score and quality of life in patients with acute stroke
+author-作者:王营
+enauthor-作者英文:WANG Ying
+jg-机构:110042,沈阳市德济医院神经内科
+kan_name-刊名:中国现代药物应用
+enkan_name-刊名英文:Chinese Journal of Modern Drug Application
+doi-doi:10.14164/j.cnki.cn11-5581/r.2018.01.043
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨依达拉奉对急性脑卒中患者美国国立卫生研究院卒中量表(NIHSS)评分、日常生活活动能力量表(ADL)评分及简易生活质量量表(SF-36)评分的改善作用.方法  80例急性脑卒中患者,依据治疗方法不同分为常规治疗组和依达拉奉组,每组40例.常规治疗组患者接受常规治疗,依达拉奉组患者接受常规治疗联合依达拉奉治疗.观察比较两组患者治疗前后的NIHSS评分、ADL评分、SF-36评分以及临床疗效.结果  治疗前两组患者的NIHSS评分、ADL评分、SF-36评分比较差异无统计学意义(P>0.05).两组患者治疗后的NIHSS评分均显著低于治疗前,ADL评分、SF-36评分均显著高于治疗前,差异具有统计学意义(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:依达拉奉@@@急性脑卒中@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-22 00:00:00
+page_code-页码:71-73
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:运动疗法配合护理干预对住院抑郁症患者抑郁情绪及生活质量的影响
+entitle-外文题名:Effects of Exercise Therapy Combined with Nursing Intervention on Depression and Quality of Life of Hospitalized Patients with Depression
+author-作者:雷华为@@@荣远萍@@@伍丽嫦@@@彭明创@@@肖爱祥@@@
+enauthor-作者英文:
+jg-机构:广州医科大学附属脑科医院(广州市惠爱医院)早期干预科 广州510370
+kan_name-刊名:数理医药学杂志
+enkan_name-刊名英文:Journal of Mathematical Medicine
+doi-doi:10.3969/j.issn.1004-4337.2018.01.051
+year-年份:2018
+qi-期:1
+abstract-摘要:目的:探讨运动疗法配合护理干预对住院抑郁症患者抑郁情绪及生活质量的影响.方法:选择2014年9月~2016年6月于某院住院治疗的抑郁症患者86例,随机分为对照组和研究组各43例,两组患者均接受常规药物治疗.对照组在患者住院治疗期间进行护理干预,研究组在对照组干预基础上加用运动疗法,观察两组临床效果.结果:干预2个月后,对照组汉密尔顿抑郁量表(HAMD)及社会功能缺陷筛选量表(SDSS)评分明显高于研究组,生活质量综合评定问卷(GQOLI-74)评分明显低于研究组,差异有统计学意义(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:抑郁症@@@运动疗法@@@护理干预@@@抑郁情绪@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R473.74
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:112-113
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:深化细节护理对眼底病患者心理状态和生活质量的影响效果分析
+entitle-外文题名:Effect of deepening detail nursing on mental status and quality of life of patients with fundus disease
+author-作者:李彩萍@@@吕迎丽@@@
+enauthor-作者英文:Li Caiping@@@Lv Yingli@@@
+jg-机构:264400,山东省威海市中心医院
+kan_name-刊名:中国社区医师
+enkan_name-刊名英文:Chinese Community Doctors
+doi-doi:10.3969/j.issn.1007-614x.2018.1.89
+year-年份:2018
+qi-期:1
+abstract-摘要:目的:探讨深化细节护理对眼底病患者心理状态和生活质量的影响.方法:收治眼底病患者83例,分为对照组和观察组.对照组采用基础护理模式,观察组采用深化细节护理模式,比较两组护理效果.结果:观察组生活质量和心理状态均显著优于对照组(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:深化细节护理@@@眼底病@@@心理状态@@@生活质量@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-16 00:00:00
+page_code-页码:143,145
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:基于"翻转课堂"与"情境教学"二维教学模式的研究与实践 ——以"生活中常见的有机物——乙醇"为例
+entitle-外文题名:"Flipped classroom"and"Situational teaching"Applied at Chemistry Teaching——Take"the Common Organic Matter of Life-alcohol"as an Example
+author-作者:郭静@@@曲晓春@@@
+enauthor-作者英文:GUO Jing@@@QU Xiao-Chun@@@
+jg-机构:延边大学 化学实验教学中心,吉林 延吉,133002
+kan_name-刊名:教育教学论坛
+enkan_name-刊名英文:jiaoyu jiaoxue luntan
+doi-doi:
+year-年份:2018
+qi-期:2
+abstract-摘要:基于高中化学课程标准的要求与新课程的理念,以"翻转课堂"组织教学活动,提高课堂教学效率;以"情境教学"贯穿教学知识点,促进知识的有意建构,两者相辅相成,构建"翻转课堂"与"情境教学"相结合的教学模式.选取"乙醇"教学内容进行具体教学实践,旨在为实现高效课堂提供一些借鉴.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:翻转课堂@@@情境教学@@@教学模式@@@乙醇@@@
+en_keywords-关键词英文:
+class_code-分类号:G642.0
+published_time-出版时间:2018-01-19 00:00:00
+page_code-页码:153-155
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:华蟾素胶囊联合PC化疗对晚期非小细胞肺癌患者血清肿瘤标志物水平及生存质量的影响
+entitle-外文题名:Effect of cinobufagin capsule combined with PC chemotherapy on serum tumor marker level and life quality in patients with advanced NSCC
+author-作者:兰守丽@@@高立伟@@@闫江涛@@@
+enauthor-作者英文:Lan Shouli@@@Gao Liwei@@@Yan Jiangtao@@@
+jg-机构:467000,河南·平顶山 平顶山市平煤神马医疗集团总医院
+kan_name-刊名:临床心身疾病杂志
+enkan_name-刊名英文:Journal of Clinical Psychosomatic Diseases
+doi-doi:10.3969/j.issn.1672-187X.2018.02.023
+year-年份:2018
+qi-期:2
+abstract-摘要:目的 探讨华蟾素胶囊联合紫杉醇+卡铂化疗方案对晚期非小细胞肺癌患者血清肿瘤标志物水平及生存质量的影响.方法 将85例晚期非小细胞肺癌患者按照随机数字表法分为观察组43例,对照组42例,两组予以紫杉醇+卡铂化疗方案治疗,观察组在此基础上联合华蟾素胶囊治疗,21 d为1个疗程,观察3个疗程.治疗后按照实体肿瘤疗效评价标准评定两组临床疗效,参照卡氏功能状态评分标准评估两组生存质量;治疗前后检测两组血清肿瘤标志物癌胚抗原、糖类抗原125及神经元特异性烯醇化酶水平的变化.结果 治疗后观察组病情缓解率,疾病控制率及生存质量改善率显著高于对照组(P0.05),治疗后两组各项指标水平均较治疗前显著下降(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:晚期非小细胞肺癌@@@PC化疗方案@@@华蟾素胶囊@@@血清肿瘤标志物@@@生存质量@@@
+en_keywords-关键词英文:
+class_code-分类号:R734.2
+published_time-出版时间:2018-01-22 00:00:00
+page_code-页码:84-87
+page_num-页数:4
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:全程护理干预对提高中老年糖尿病患者依从性及生活质量的效果研究
+entitle-外文题名:The effect of whole course nursing intervention on the improvement of compliance and quality of life of middle aged and elderly diabetic patients
+author-作者:李旭
+enauthor-作者英文:
+jg-机构:成都红星老年病医院 610500
+kan_name-刊名:饮食保健
+enkan_name-刊名英文:Diet Health
+doi-doi:
+year-年份:2018
+qi-期:1
+abstract-摘要:目的:探讨全程护理干预对提高中老年糖尿病患者用药依从性、生活质量的具体应用效果.方法:对照组给予临床常规护理,研究组在常规护理基础上加用全程护理干预.记录两组治疗依从性、护理前后生活质量变化情况,将所得数据输入SPSS软件后行统计学分析并得出结论.结果:研究组临床用药完全依从率高达85.42%、对照组完全依从率仅为39.58%(P0.05;经不同方法护理后研究组SF-36量表评分较之前显著改善(P0.05).结论:应用全程护理干预可显著提高中老年糖尿病患者治疗依从性,对保障其生活质量具有重要价值.
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:糖尿病@@@全程护理干预@@@生活质量@@@依从性@@@影响效果@@@
+en_keywords-关键词英文:
+class_code-分类号:R47
+published_time-出版时间:2018-01-17 00:00:00
+page_code-页码:11-12
+page_num-页数:2
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:心理护理干预对颈椎骨折合并截瘫患者生活质量及护理满意度的影响
+entitle-外文题名:Influence of psychological nursing intervention on life quality and nursing satisfaction of patients with f racture of cervical vertebra combined with paraplegia
+author-作者:王小藕
+enauthor-作者英文:Wang Xiao'ou
+jg-机构:454001,河南·焦作 焦作市第二人民医院
+kan_name-刊名:临床心身疾病杂志
+enkan_name-刊名英文:Journal of Clinical Psychosomatic Diseases
+doi-doi:10.3969/j.issn.1672-187X.2018.01.054
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 探讨心理护理干预对颈椎骨折合并截瘫患者生活质量及护理满意度的影响.方法 将66例颈椎骨折合并瘫痪患者采用随机数字表法分为两组,各33例.两组均给予常规护理,研究组在此基础上给予心理护理干预.比较干预前后两组健康调查简表、焦虑自评量表及抑郁自评量表评分,比较两组并发症发生率及护理满意度.结果 干预后两组健康调查简表各维度评分均较干预前显著升高(P
+enabstract-摘要英文:
+fund-基金:
+keywords-关键词:颈椎骨折@@@截瘫@@@心理护理干预@@@生活质量@@@护理满意度@@@
+en_keywords-关键词英文:
+class_code-分类号:R683.2
+published_time-出版时间:2017-12-26 00:00:00
+page_code-页码:168-170
+page_num-页数:3
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:慢性病患儿过渡期准备对其生活质量的影响
+entitle-外文题名:Impact of transition readiness on quality of life in children with chronic diseases
+author-作者:马佳莉@@@盛楠@@@丁文雯@@@张莹@@@
+enauthor-作者英文:MA Jia-Li@@@SHENG Nan@@@DING Wen-Wen@@@ZHANG Ying@@@
+jg-机构:上海交通大学护理学院,上海,200025
+kan_name-刊名:中国当代儿科杂志
+enkan_name-刊名英文:Chinese Journal of Contemporary Pediatrics
+doi-doi:10.7499/j.issn.1008-8830.2018.01.013
+year-年份:2018
+qi-期:1
+abstract-摘要:目的 调查慢性病患儿生活质量现状,探讨过渡期准备对其生活质量的影响.方法 采用一般资料问卷、儿童生活质量普适性核心量表、过渡期准备问卷对上海市2所儿童医院的332例慢性病患儿过渡期准备和生活质量情况进行调查.结果 患儿生活质量总分为74.66±15.85分,低于全国常模(81.81±12.03分, P
+enabstract-摘要英文:
+fund-基金:上海市卫生和计划生育委员会科研基金(201540212)@@@上海市教委护理高原学科项目-国际合作科研基金(Hlgy1602gj)@@@上海市教委护理高原学科项目(Hlgy17003yjs)
+keywords-关键词:慢性病@@@过渡期准备@@@生活质量@@@儿童@@@
+en_keywords-关键词英文:
+class_code-分类号:
+published_time-出版时间:2018-01-17 00:00:00
+page_code-页码:60-66
+page_num-页数:7
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+
+title-题名:FBG应变传感器应力疲劳极限传感寿命评估方法
+entitle-外文题名:Evaluation Method of Ultimate Sensing Life for Stress Fatigued FBG Strain Sensors
+author-作者:舒岳阶@@@吴俊@@@周世良@@@周远航@@@
+enauthor-作者英文:SHU Yue-jie@@@WU Jun@@@ZHOU Shi-liang@@@ZHOU Yuan-hang@@@
+jg-机构:重庆交通大学 内河航道整治技术交通行业重点实验室,重庆400074;重庆交通大学 西南水运工程科学研究所,重庆400016@@@重庆交通大学 西南水运工程科学研究所,重庆,400016@@@
+kan_name-刊名:光子学报
+enkan_name-刊名英文:Acta Photonica Sinica
+doi-doi:10.3788/gzxb20184701.0106002
+year-年份:2018
+qi-期:1
+abstract-摘要:光纤光栅应变传感器在应力疲劳作用下不可避免地出现性能衰退,为了评估其极限传感寿命,从光纤光栅传感原理出发,理论推导了应力疲劳作用引起的满度相对误差表达式,以工业仪表精确度等级作为传感器的极限状态阈值,提出了基于等强度梁的极限传感寿命测试方法.利用该方法评估了高桩码头结构健康监测应用环境中光纤光栅应变传感器的极限传感寿命,以满度相对误差变化4%作为极限失效阈值,对4支传感器进行了1.32亿应力疲劳实验.当疲劳至1.32亿次时,2支传感器达到极限传感寿命,1支传感器接近极限传感寿命,即极限传感寿命约为1.32亿次.实验结果表明,提出的方法能有效地测试不同结构健康监测需求下,光纤光栅应变传感器的应力疲劳极限传感寿命.
+enabstract-摘要英文:
+fund-基金:国家自然科学基金(51508059)@@@内河航道整治技术交通行业重点实验室开放基金(NHHD-201502)@@@宁波市交通运输科技项目(No.201704)资助 The National Natural Science Fund(51508059)@@@the Open Foundation of Key Laboratory of Inland Waterway Regulation Engineering of Ministry of Communications(NHHD-201502)@@@Ningbo Transportation Science and Technology Project(201704)
+keywords-关键词:光纤光学@@@极限传感寿命@@@应力疲劳@@@光纤光栅@@@满度相对误差@@@等强度梁@@@
+en_keywords-关键词英文:
+class_code-分类号:TN253
+published_time-出版时间:2018-01-02 00:00:00
+page_code-页码:100-105
+page_num-页数:6
+amount-下载次数:
+cited-被引频次:
+reference_num-文献数目:0
+reference-文献:
+###@@@
+

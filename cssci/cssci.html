@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="keywords" content="admin, dashboard, bootstrap, template, flat, modern, theme, responsive, fluid, retina, backend, html5, css, css3">
+    <meta name="description" content="">
+    <meta name="author" content="ThemeBucket">
+    <link rel="shortcut icon" href="#" type="image/png">
+    <title>用户列表</title>
+	<!-- bootstrap -->
+
+    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet">
+	<link href="./bootstrap/css/bootstrap-theme.css" rel="stylesheet">
+	<link href="./bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+	<link href="./layer/mobile/need/layer.css" rel="stylesheet">
+	
+	<link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
+ <!--	<script src="./bootstrap/js/bootstrap.js"></script>
+	<script src="./bootstrap/js/bootstrap.min.js"></script>
+	<script src="./bootstrap/js/npm.js"></script>-->
+	<script src="./jquery-1.7.min.js"></script>
+	<script src="./layer/layer.js"></script>
+	<script src="./layer/mobile/layer.js"></script>
+
+	
+    <!--icheck-->
+
+</head>
+
+<script></script>
+<body>
+<!--
+<table width="40%" border="1" cellspacing="0" cellpadding="0" class="table-hover center-block">
+	<tr>
+		<td>
+			<a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=lysy" target='_blank'>数据抓取</a>
+		</td>
+	</tr>
+</table>
+<br>-->
+	
+	<form class="form-horizontal" action="" method="post" enctype="multipart/form-data" style="padding:50px;">
+		<div class="form-group">
+			<label for="inputEmail3" class="col-sm-2 control-label">需要抓取的学校</label>
+			<div class="col-sm-8">
+				<input type="text" class="form-control" name="school" id="school"><p style="color:red;">学校之间以&nbsp|&nbsp符号间隔，最后结尾也注意加上&nbsp|</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="" class="col-sm-2 control-label">开始年份</label>
+			<div class="col-sm-2">
+				<input type="text" class="form-control" name="start_year" id="start_year">
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="" class="col-sm-2 control-label">截止年份</label>
+			<div class="col-sm-2">
+				<input type="text" class="form-control" name="end_year"  id="end_year"><p style="color:red;">全部年份是1998-2017</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<button type="text" class="btn btn-default" id="sub">确认抓取</button>
+			</div>
+		</div>
+
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<button type="text" class="btn btn-default" ><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_2" target='_blank'>数据解析</a></button>
+			</div>
+		</div>
+	
+	</form>
+
+	<form class="form-horizontal" action="" method="post" enctype="multipart/form-data" style="padding:50px;">
+		<div class="form-group">
+			<label for="inputEmail3" class="col-sm-2 control-label">需要抽取的学校</label>
+			<div class="col-sm-8">
+				<input type="text" class="form-control" name="school" id="school_chouqu"><p style="color:red;">学校之间以&nbsp|&nbsp符号间隔，最后结尾也注意加上&nbsp|</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="" class="col-sm-2 control-label">开始年份</label>
+			<div class="col-sm-2">
+				<input type="text" class="form-control" name="start_year" id="start_year_chouqu">
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="" class="col-sm-2 control-label">截止年份</label>
+			<div class="col-sm-2">
+				<input type="text" class="form-control" name="end_year"  id="end_year_chouqu"><p style="color:red;">全部年份是1998-2017</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<button type="text" class="btn btn-default" id="sub_chouqu">确认抽取</button>
+			</div>
+		</div>
+		
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-8">
+				<button type="text" class="btn btn-default col-sm-5" ><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_1&type=1" target='_blank'>确认补抓</a></button>
+				<button type="text" class="btn btn-default col-sm-5" style="margin-left:3%;"><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_2" target='_blank'>解析补抓</a></button>
+			</div>
+		</div>
+
+	
+
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<button type="text" class="btn btn-default col-sm-4"><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_4" target='_blank'>确认导出txt</a></button>
+				<button type="text" class="btn btn-default col-sm-4" style="margin-left:2%;"><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_5" target='_blank'>下载导出txt</a></button>
+			</div>
+		</div>
+
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<button type="text" class="btn btn-default col-sm-4"><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_6" target='_blank'>确认导出execl</a></button>
+				<button type="text" class="btn btn-default col-sm-4" style="margin-left:2%;"><a href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_7" target='_blank'>下载导出execl</a></button>
+			</div>
+		</div>
+
+	</form>
+
+</body>
+
+</html>
+<script>
+	$(function(){
+		$("#sub").click(function(){
+			var school		= $("#school").val();
+			var start_year  = $.trim($("#start_year").val());
+			var end_year	= $.trim($("#end_year").val());
+			var preg		= /^[12]{1}[0-9]{3}$/;
+			if(preg.test(start_year) && preg.test(end_year)){
+				if(parseInt(end_year)>=parseInt(start_year)){
+					//location.href="http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=lysy&school="+school+"start_year="+start_year+"end_year="+end_year;
+					window.open("http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_1&school="+school+"&start_year="+start_year+"&end_year="+end_year);
+				}else{
+					alert("注意时间大小！");
+				}
+				
+			}else{
+				alert("注意时间格式！");
+			}
+		})
+
+		$("#sub_chouqu").click(function(){
+			var school_chouqu		= $("#school_chouqu").val();
+			var start_year_chouqu   = $.trim($("#start_year_chouqu").val());
+			var end_year_chouqu		= $.trim($("#end_year_chouqu").val());
+			var preg		= /^[12]{1}[0-9]{3}$/;
+			if(preg.test(start_year_chouqu) && preg.test(end_year_chouqu)){
+				if(parseInt(end_year_chouqu)>=parseInt(start_year_chouqu)){
+					
+					window.open("http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_3&school_chouqu="+school_chouqu+"&start_year_chouqu="+start_year_chouqu+"&end_year_chouqu="+end_year_chouqu);
+				}else{
+					alert("注意时间大小！");
+				}
+				
+			}else{
+				alert("注意时间格式！");
+			}
+		})
+
+	/*	$('#sub_chouqu_num').click(function(){
+			var school_chouqu		= $("#school_chouqu_num").val();
+			var preg = /^[1-9]\d*$/;
+			if(preg.test(school_chouqu)){
+				window.open("http://192.168.3.193/cssci_new_exec/cssci_auto/cssci.php?action=step_4&school_chouqu_num="+school_chouqu_num);
+				
+			}else{
+				alert("注意格式！");
+			}
+		});*/
+	});
+
+</script>
