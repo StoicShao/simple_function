@@ -575,7 +575,7 @@ class service extends Common
 //        linux ：crontab，shell脚本
 //
 //        模拟线程分发
-//        cmd中起cmd
+//        cmd中起cmd 1111
     }
 
     function session(){
