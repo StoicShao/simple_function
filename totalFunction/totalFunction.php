@@ -577,4 +577,13 @@ class service extends Common
 //        模拟线程分发
 //        cmd中起cmd
     }
+
+    function session(){
+        //多台服务器调用一个公共服务器上面的session
+//        1.存数据库
+//        2.缓存
+//        3.把session存入cookie里面 当访问服务器A时，登录成功之后将产生的session信息存放在cookie中；当访问请求分配到服务器B时，服务器B先判断服务器有没有这个session，如果没有，在去看看客户端的cookie里面有没有这个session，如果cookie里面有，就把cookie里面的sessoin同步到web服务器B，这样就可以实现session的同步了。
+//        4.使用一台作为用户的登录服务器，当用户登录成功之后，会将session写到当前服务器上，我们通过脚本或者守护进程将session同步到其他服务器上，这时当用户跳转到其他服务器，session一致，也就不用再次登录。
+
+    }
 }
