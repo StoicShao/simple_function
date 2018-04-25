@@ -330,7 +330,7 @@ class service extends Common
 
     function mysql(){
 //        来源：http://blog.csdn.net/xrt95050/article/details/5556411
-//        mysql默认顺序查询
+//        mysql默认顺序查询 关系型数据库
 //        主键：是唯一索引，但每张表只能有一个主键，不能为空，例如id
 //        索引：用于mysql的快速查询
 //        普通索引：normal 用于优化查询  ALTER TABLE '表名' ADD INDEX '命名的索引名'('字段名');
@@ -339,6 +339,12 @@ class service extends Common
 //        单列索引和多列索引：多条件查询时，使用多列索引查询比单列索引效率高
 //        ALTER TABLE '表名' ADD INDEX '命名的索引名'('字段名','字段名','字段名');
 //        索引的方法：一般使用Btree方法，Hash是在特定条件下的精确查询，有很多限制性
+
+//        两种索引方法
+//        btree ,hash
+//        hash方法的检索速度比btree要快，但是不适用于范围条件查询，也不适用于排序查询，通配符LIKE操作符会不起作用
+//        B-Tree索引可以被用在像=,>,>=,<,<=和BETWEEN这些比较操作符上。而且还可以用于LIKE操作符
+
 //
 //        外键：需要先将两张表里有关联作用的字段设置为索引，然后把其中一张表里的索引字段设置为外键，会受另一个表里的索引字段的值变化影响
 //        ALTER TABLE '字表' ADD CONSTRAINT '命名的外键名' FOREIGN KEY ('字表的索引字段') REFERENCES parts('主表的索引字段') ON UPDATE CASCADE;
@@ -562,7 +568,7 @@ class service extends Common
          *
          * */
 
-//        $smtpusermail  = "@163.com";
+//      $smtpusermail  = "@163.com";
 //		$smtpemailto   = $sendMail;//发送给谁(可以填写任何邮箱地址)
 //		$smtpuser      = "";
 //		$smtppass      = "s";
@@ -584,6 +590,11 @@ class service extends Common
 //        2.缓存
 //        3.把session存入cookie里面 当访问服务器A时，登录成功之后将产生的session信息存放在cookie中；当访问请求分配到服务器B时，服务器B先判断服务器有没有这个session，如果没有，在去看看客户端的cookie里面有没有这个session，如果cookie里面有，就把cookie里面的sessoin同步到web服务器B，这样就可以实现session的同步了。
 //        4.使用一台作为用户的登录服务器，当用户登录成功之后，会将session写到当前服务器上，我们通过脚本或者守护进程将session同步到其他服务器上，这时当用户跳转到其他服务器，session一致，也就不用再次登录。
+
+    }
+    function dd(){
+//       通过id分组合并
+//       select id,group_concat(louhao) from tablename group by id
 
     }
 }
