@@ -595,6 +595,5 @@ class service extends Common
     function dd(){
 //       通过id分组合并
 //       select id,group_concat(louhao) from tablename group by id
-
     }
 }
