@@ -12,6 +12,11 @@
 //echo '<meta http-equiv="content-type" content="text/html;charset=utf-8">';echo '<meta http-equiv="content-type" content="text/html;charset=utf-8">';
 class service extends Common
 {
+
+    function syg(){
+//        106.14.159.58
+
+    }
 	function vcurl($url, $post = '', $cookie = '', $cookiejar = '', $referer = '',$stime='40',$localhost='0',$header='0')
     {
         $tmpInfo = '';
@@ -147,8 +152,6 @@ class service extends Common
         //去除空数组              array_filter($a)
 
         //去除指定key值得元素组   unset($a[1])
-
-        //两个数组组合成一个数组  array_combine
 
         //两个数组组合成一个数组  array_combine
 
@@ -358,7 +361,8 @@ class service extends Common
 
         //$this->conn2 = mysql_connect(localhost2,'root2','root2');
         //mysql_query("set names utf8",$this->conn2);
-
+        //通过id分组合并
+        //select id,group_concat(louhao) from tablename group by id
     }
 
     //mysql cmd操作
@@ -380,6 +384,27 @@ class service extends Common
          * drop table 表名;        删库
          * */
 
+    }
+
+    /*
+     * mysql事务，锁*/
+    function mysql_use(){
+        //结合try{}catch(Exception $e){}去捕捉自行的异常
+        //之前先开启事务，利用try和catch去进行事务利用
+        //乐观锁：，先给数据表加version字段，先查询出那条记录，获取出version字段,如果要对那条记录进行操作(更新),则先判断此刻version的值是否与刚刚查询出来时的version的值相等，如果相等，则说明这段期间，没有其他程序对其进行操作，则可以执行更新，将version字段的值加1；如果更新时发现此刻的version值与刚刚获取出来的version的值不相等，则说明这段期间已经有其他程序对其进行操作了，则不进行更新操作。
+
+        //悲观锁:一般行锁都是悲观锁，将某条记录查询加锁并进行操作，其他进程在排队等待上个进程的执行，容易产生堵塞，只有能上个进程执行成功释放锁，才可以执行下个进程
+    }
+    function bingfa(){
+        //并发，本身apache有队列
+        /*
+         * redis队列，mysql自身的事务和锁表，访问数据库时加一道锁文件的门槛
+         *
+         * 先对奖品给识别号,然后在中奖纪录表中建立索引（唯一索引）,对于中奖用户的所中奖品插入表中，通过索引和数量来查询限制是否超过规定，如果能插入表中再返回结果给用户
+         *
+         * mysql模拟队列，建立新表来存储用户的请求，然后对那张表再进行集中判断处理
+         *
+         * */
     }
 
     function web(){
@@ -407,6 +432,16 @@ class service extends Common
         //cd /usr/local/coreseek && bin/indexer -c etc/conf_505.conf --all
         //启动索引
         //cd /usr/local/coreseek && bin/searchd -c etc/conf_505.conf
+
+       // windows和linux查看端口被占用情况
+        //netstat -aon|findstr “80” 找出所有端口，并查看相应端口的pid，例80端口的pid是123，
+        //tasklist|findstr “123”,根据pid找出占用80端口的程序
+        //taskkill /t /f /im 进程名.exe或者taskkill /t /f /PID 123 结束这个进程
+
+        //netstat -an 查看所有端口占用情况  或者 netstat -apn|grep 80 直接找到占用80端口的进程
+        //lsof -i :80 查看具体占用80端口的进程，找出pid 123
+        // ps -aux | grep 123 通过pid查看详细信息
+        //kill -9 pid 结束这个进程
 
         //执行脚本命令时，也可以用php的system,exec,passthru
         //cd 打开目录
@@ -499,12 +534,28 @@ class service extends Common
         　　git remote add origin 仓库地址 //关联远程仓库
         　　git push -u origin master //把本地库的所有内容推送到远程库上
 
-         *
-         * */
+         * 更新上传
+           git status
+           git add . //不但可以跟单一文件，还可以跟通配符，更可以跟目录。一个点就把当前目录下所有未追踪的文件全部add了
+        　 git commit -m "first commit" //把文件提交到仓库
+           git push -u origin master //把本地库的所有内容推送到远程库上
+
+          * 本地、远程仓库合并（需要手动消除冲突，可以借助phpstorm）
+            git fetch origin master:temp  从远程的origin仓库的master分支下载到本地，并新建一个temp分支
+            git diff temp                   查看temp分支与本地原有分支的不同
+            git merge temp          将temp分支和本地分支合并。B的本地代码已经和远程仓库处于同一个版本了，接下来去代码中消除冲突，并提交新版本到远程代码库
+            git branch -d temp      删除temp分支
+        * */
+//        配置phpstorm的Git账户
+//        查看生成的公钥
+//        cat ~/.ssh/id_rsa.pub
+//        自己Git邮箱匹配生成秘钥，并利用秘钥到后台添加SSH-Keys，这条命令的目的是为了让本地机器ssh登录远程机器上的GitHub账户无需输入密码
+//        ssh-keygen -t rsa -b 4096 -C "81173844@house365.com"
     }
 
     //邮箱发送
     function sendMail(){
+
         require_once "./email.class.php";
         //下面开始设置一些信息
         $smtpserver    = "smtp.163.com";//SMTP服务器
@@ -525,14 +576,15 @@ class service extends Common
             echo "发送失败！";exit();
         }
         echo "发送成功！";die;
-
     }
 
     //数据到出 txt
     function dc_txt()
     {
         $savepath	= 'E:\\www\\dc_txt\\';
-
+        dirname(__FILE__);
+//        file_exists:文件是否存在
+//        is_dir:目录是否存在
         mkdir($savepath.'dc_txt');
         $seTB	= "schooldatachouqu.dc_table";
         $lastid	= $this->getLastId($seTB);
@@ -557,23 +609,7 @@ class service extends Common
         }
     }
 
-    function bingfa(){
-        //并发，本身apache有队列
-        /*
-         * redis队列
-         *
-         * 先对奖品给识别号,然后在中奖纪录表中建立索引（唯一索引）,对于中奖用户的所中奖品插入表中，通过索引和数量来查询限制是否超过规定，如果能插入表中再返回结果给用户
-         *
-         * mysql模拟队列，建立新表来存储用户的请求，然后对那张表再进行集中判断处理
-         *
-         * */
 
-//      $smtpusermail  = "@163.com";
-//		$smtpemailto   = $sendMail;//发送给谁(可以填写任何邮箱地址)
-//		$smtpuser      = "";
-//		$smtppass      = "s";
-
-    }
     //定时器
     function cmd(){
 //        windows：php死循环，sleep时间 （不可取）。
@@ -592,12 +628,85 @@ class service extends Common
 //        4.使用一台作为用户的登录服务器，当用户登录成功之后，会将session写到当前服务器上，我们通过脚本或者守护进程将session同步到其他服务器上，这时当用户跳转到其他服务器，session一致，也就不用再次登录。
 
     }
-    function dd(){
-//       通过id分组合并
-//       select id,group_concat(louhao) from tablename group by id
+    function jumpWall(){
+//       翻墙软件，通过购买海外代理服务器翻墙
+//        软件名：Shadowsocks.exe
+//        域名：104.225.158.28
+//        端口：8990
+//        密码：bairi13jin
+//        代理端口：1080
     }
-    function dd3(){
-//       通过id分组合并
-//       select id,group_concat(louhao) from tablename group by id
+
+
+    //nginx配置
+    function nginx(){
+       //vhosts.conf
+        server {
+              #监听端口
+              listen    80;
+              #域名配置  一个ip地址只能用一个占用一个端口号，多个域名地址可以共用一个端口
+              server_name   rent.365.cn;
+              #存放项目文件访问目录
+              set $root_path 'F:\phpStudy\PHPTutorial\WWW\New_Rent\frontend\web';
+              root $root_path; # 该项要修改为你准备存放相关网页的路径
+              #入口文件
+              index index.php;
+              #路由解析
+               location / {
+                            # Redirect everything that isn't a real file to index.php
+                            try_files $uri $uri/ /index.php?$args;
+               }
+               #php和nginx解析配置  fastcgi
+              location ~ \.php$ {
+                  fastcgi_pass   127.0.0.1:9000;
+                  fastcgi_index   index.php;
+                  include fastcgi.conf;
+              }
+              #proxy the php scripts to php-fpm
+              #是否开启错误日志
+              #error_log /usr/local/etc/nginx/logs/rent_error.log;
+              #设置静态资源缓存过期时间
+              location ~ .*\.(gif|jpg|jpeg|png|bmp|swf)$ {
+                        expires      30d;
+              }
+        }
     }
+    function linux_action(){
+        //find ./ -name "*.conf*"   找出当前文件夹下面含有conf的文件
+        //find ../ -name "*.conf*"  找出上级文件夹下面含有conf的文件
+        //grep -r "*.conf"          找出内容含有conf的文件
+        //i         代表insert ，可以修改内容
+        //u         需先esc退出编辑模式，撤回修改内容
+        //:q        退出文件
+        // 加上反斜杠 / 可以正则匹配内容
+    }
+
+
+    function js_study(){
+        // 模拟js表单提交 $('#crmBrokerListForm').attr('action','http://esfadmin.house365.com/module/broker_manage/crm_broker.php?page=1&test=2').submit()
+//        查找p元素下，所有class选择器为selected的元素
+//        $("p").siblings(".selected")
+//        查找div下所有的class选择器为selected的子元素，设为蓝色
+//        $("div").children(".selected").css("color", "blue")
+//        选择第二个p元素，index 值从 0 开始
+//        $("p:eq(1)") 等同于 $("p").eq(1)
+//        点击获取相应元素的index值
+//        $("li").click(function(){
+//            alert($(this).index());
+//        });
+//        查找b元素的上级元素，parent是单层上一级，parents是所有的上级元素
+//        $("b").parent()
+//        $("b").parents()
+//        添加一个或多个 class 属性类，添加多个类用空格分隔类名，不会移除已存在的 class 属性
+//        $(selector).addClass(class1 class2 class3)
+//        jq去除空白字符
+//        $.trim()
+//        js打印
+//        console.log()
+//        IS_OWNER_CHECK
+//        alter table real_house_appeal add (internal_num varchar(50) default 0 comment '内部编号',appeal_qiqaun varchar(50) default 0 comment '丘权号',owner_phone char(11) default 0 comment '业主手机号',property_rights_num varchar(50) default 0 comment '产权证号',property_rights_name varchar(50) default 0 comment '产权人姓名',property_rights_person_id varchar(50) default 0 comment '产权人身份证号')
+
+
+    }
+
 }
