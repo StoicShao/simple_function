@@ -26,8 +26,8 @@ class weixin{
         $appid      =  $result['appid'];
         $appsecret  =  $result['appsecret'];
         //d,b
-        $appid     = 'wx01b1257bee885ca';
-        $appsecret = 'cdc5d9d8efce2d14b429f73a77edb5d';
+        $appid     = '';
+        $appsecret = '';
         $token     = $this->getToken($appid,$appsecret);
         //print_r($token);
         if($token){

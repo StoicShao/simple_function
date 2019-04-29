@@ -633,7 +633,7 @@ class service extends Common
 //        软件名：Shadowsocks.exe
 //        域名：104.225.158.28
 //        端口：8990
-//        密码：bairi13jin
+//        密码：
 //        代理端口：1080
     }
 
